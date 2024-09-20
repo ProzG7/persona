@@ -1,0 +1,22 @@
+header{
+    background-color: white ;
+    text-align: center;
+}
+#valentina{
+    text-align: center;
+   
+
+    
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.info{
+    text-align:center;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+*{
+    background-color: black;
+}
